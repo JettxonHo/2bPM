@@ -1,0 +1,1125 @@
+{
+  "nav": [
+    {
+      "text": "首页",
+      "link": "/"
+    },
+    {
+      "text": "本书首页",
+      "link": "/home"
+    },
+    {
+      "text": "入门",
+      "link": "/introduction/index"
+    },
+    {
+      "text": "思维/软实力",
+      "link": "/idea/index"
+    },
+    {
+      "text": "全流程知识",
+      "link": "/knowledge/index"
+    },
+    {
+      "text": "前人经验",
+      "link": "/experience/index"
+    },
+    {
+      "text": "项目实践",
+      "link": "/project/index"
+    },
+    {
+      "text": "面试",
+      "link": "/interview/index"
+    },
+    {
+      "text": "AI工作",
+      "link": "/ai-job/index"
+    },
+    {
+      "text": "深入学习数据",
+      "link": "/data-dive/index"
+    },
+    {
+      "text": "深入学习AI",
+      "link": "/ai-dive/index"
+    },
+    {
+      "text": "AI政治",
+      "link": "/ai-politics/index"
+    },
+    {
+      "text": "AI公司研究",
+      "link": "/ai-company/index"
+    },
+    {
+      "text": "AI或产品专家",
+      "link": "/ai-pm-expert/index"
+    },
+    {
+      "text": "AI金融",
+      "link": "/ai-finance/index"
+    }
+  ],
+  "sidebar": {
+    "/introduction/": [
+      {
+        "text": "入门",
+        "items": [
+          {
+            "text": "产品经理的一天",
+            "link": "/introduction/1Day"
+          },
+          {
+            "text": "To Business",
+            "link": "/introduction/2B"
+          },
+          {
+            "text": "To Customer",
+            "link": "/introduction/2C"
+          },
+          {
+            "text": "AI",
+            "link": "/introduction/AI"
+          },
+          {
+            "text": "AI产品经理",
+            "link": "/introduction/AI_PM"
+          },
+          {
+            "text": "AI 产品",
+            "link": "/introduction/AI_Product"
+          },
+          {
+            "text": "Product Mananger",
+            "link": "/introduction/PM"
+          },
+          {
+            "text": "产品",
+            "link": "/introduction/Product"
+          },
+          {
+            "text": "AI产品经理的完整能力矩阵 [1]",
+            "link": "/introduction/ability"
+          },
+          {
+            "text": "职业发展路径",
+            "link": "/introduction/career_path"
+          },
+          {
+            "text": "入门",
+            "link": "/introduction/index"
+          },
+          {
+            "text": "财务规划",
+            "link": "/introduction/money"
+          },
+          {
+            "text": "需求",
+            "link": "/introduction/need"
+          },
+          {
+            "text": "产品机会",
+            "link": "/introduction/opportunity"
+          },
+          {
+            "text": "平台型",
+            "link": "/introduction/platform"
+          }
+        ]
+      }
+    ],
+    "/idea/": [
+      {
+        "text": "思维/软实力",
+        "items": [
+          {
+            "text": "GTM（go to marketing）",
+            "link": "/idea/GTM"
+          },
+          {
+            "text": "注意力",
+            "link": "/idea/attention"
+          },
+          {
+            "text": "品牌",
+            "link": "/idea/brand"
+          },
+          {
+            "text": "商业思维",
+            "link": "/idea/business"
+          },
+          {
+            "text": "沟通",
+            "link": "/idea/communicate"
+          },
+          {
+            "text": "转换成本[1]",
+            "link": "/idea/convert"
+          },
+          {
+            "text": "创意",
+            "link": "/idea/create"
+          },
+          {
+            "text": "批判性思维[1]",
+            "link": "/idea/critical"
+          },
+          {
+            "text": "数据 [1]",
+            "link": "/idea/data"
+          },
+          {
+            "text": "费米推理",
+            "link": "/idea/decompose"
+          },
+          {
+            "text": "设计思维 [1]",
+            "link": "/idea/design"
+          },
+          {
+            "text": "同理心",
+            "link": "/idea/empathy"
+          },
+          {
+            "text": "Goal",
+            "link": "/idea/goal"
+          },
+          {
+            "text": "思维",
+            "link": "/idea/idea"
+          },
+          {
+            "text": "思维/软实力",
+            "link": "/idea/index"
+          },
+          {
+            "text": "谈判",
+            "link": "/idea/negotiation"
+          },
+          {
+            "text": "风险",
+            "link": "/idea/risk"
+          },
+          {
+            "text": "服务",
+            "link": "/idea/service"
+          },
+          {
+            "text": "时间",
+            "link": "/idea/time"
+          },
+          {
+            "text": "技术理解力",
+            "link": "/idea/understand_tech"
+          }
+        ]
+      }
+    ],
+    "/knowledge/": [
+      {
+        "text": "全流程知识",
+        "items": [
+          {
+            "text": "BRD",
+            "link": "/knowledge/BRD"
+          },
+          {
+            "text": "交互设计",
+            "link": "/knowledge/IXD_design"
+          },
+          {
+            "text": "MRD [1]",
+            "link": "/knowledge/MRD"
+          },
+          {
+            "text": "MVP",
+            "link": "/knowledge/MVP"
+          },
+          {
+            "text": "PRD",
+            "link": "/knowledge/PRD"
+          },
+          {
+            "text": "估值",
+            "link": "/knowledge/Valuation"
+          },
+          {
+            "text": "沟通、协作、项目推动能力",
+            "link": "/knowledge/collaborate"
+          },
+          {
+            "text": "竞争分析",
+            "link": "/knowledge/compete_analysis"
+          },
+          {
+            "text": "数据分析",
+            "link": "/knowledge/data_analysis"
+          },
+          {
+            "text": "需求分析",
+            "link": "/knowledge/demand_analysis"
+          },
+          {
+            "text": "产品体验报告",
+            "link": "/knowledge/experience_report"
+          },
+          {
+            "text": "竞品分析",
+            "link": "/knowledge/goods_analysis"
+          },
+          {
+            "text": "全流程知识",
+            "link": "/knowledge/index"
+          },
+          {
+            "text": "行业分析",
+            "link": "/knowledge/industry_analysis"
+          },
+          {
+            "text": "市场分析",
+            "link": "/knowledge/market_analysis"
+          },
+          {
+            "text": "推广产品",
+            "link": "/knowledge/more_users"
+          },
+          {
+            "text": "产品定价 [1]",
+            "link": "/knowledge/price"
+          },
+          {
+            "text": "产品设计",
+            "link": "/knowledge/product_design"
+          },
+          {
+            "text": "项目管理",
+            "link": "/knowledge/project_manage"
+          },
+          {
+            "text": "原型设计",
+            "link": "/knowledge/prototype_design"
+          },
+          {
+            "text": "Research",
+            "link": "/knowledge/research"
+          },
+          {
+            "text": "资源管理",
+            "link": "/knowledge/resource_manage"
+          },
+          {
+            "text": "业务说明（用例）",
+            "link": "/knowledge/service_analysis"
+          },
+          {
+            "text": "静态页面",
+            "link": "/knowledge/static_page"
+          },
+          {
+            "text": "商业化产品“七步设计法” [1]",
+            "link": "/knowledge/steps"
+          },
+          {
+            "text": "策略分析",
+            "link": "/knowledge/strategy_analysis"
+          },
+          {
+            "text": "工具",
+            "link": "/knowledge/tools"
+          },
+          {
+            "text": "产品迭代管理",
+            "link": "/knowledge/upgrade_manage"
+          },
+          {
+            "text": "用户需求研究 [1]",
+            "link": "/knowledge/users_analysis"
+          }
+        ]
+      }
+    ],
+    "/experience/": [
+      {
+        "text": "前人经验",
+        "items": [
+          {
+            "text": "产品经理的一天",
+            "link": "/experience/1Day"
+          },
+          {
+            "text": "4年产品工作总结",
+            "link": "/experience/4years"
+          },
+          {
+            "text": "Jamin",
+            "link": "/experience/Jamin"
+          },
+          {
+            "text": "蚂蚁借呗的金融产品解析",
+            "link": "/experience/ant_jiebei"
+          },
+          {
+            "text": "职业发展路径",
+            "link": "/experience/career_path"
+          },
+          {
+            "text": "钉钉",
+            "link": "/experience/dingding"
+          },
+          {
+            "text": "diudiu",
+            "link": "/experience/diudiu"
+          },
+          {
+            "text": "早期工作",
+            "link": "/experience/early_phase"
+          },
+          {
+            "text": "失败",
+            "link": "/experience/fail"
+          },
+          {
+            "text": "盒马鲜生",
+            "link": "/experience/hema"
+          },
+          {
+            "text": "前人经验",
+            "link": "/experience/index"
+          },
+          {
+            "text": "Issue",
+            "link": "/experience/issue"
+          },
+          {
+            "text": "剧本杀",
+            "link": "/experience/jubensha"
+          },
+          {
+            "text": "AI PM的隐性工作",
+            "link": "/experience/recessive_work"
+          },
+          {
+            "text": "taobao",
+            "link": "/experience/taobao"
+          },
+          {
+            "text": "tencent",
+            "link": "/experience/tencent"
+          }
+        ]
+      }
+    ],
+    "/project/": [
+      {
+        "text": "项目实践",
+        "items": [
+          {
+            "text": "AI 金融",
+            "link": "/project/AI_Finance"
+          },
+          {
+            "text": "AI公司",
+            "link": "/project/AI_company"
+          },
+          {
+            "text": "AI 健身",
+            "link": "/project/AI_fit"
+          },
+          {
+            "text": "AI 硬件 [1]",
+            "link": "/project/AI_hardware"
+          },
+          {
+            "text": "AI行业分析",
+            "link": "/project/AI_industry_analysis"
+          },
+          {
+            "text": "AI 人才",
+            "link": "/project/AI_talents"
+          },
+          {
+            "text": "APP体验",
+            "link": "/project/APP_experience"
+          },
+          {
+            "text": "数据处理流程拆解",
+            "link": "/project/Data Process"
+          },
+          {
+            "text": "模型过程",
+            "link": "/project/Model Process"
+          },
+          {
+            "text": "Roadmap[1]",
+            "link": "/project/Roadmap"
+          },
+          {
+            "text": "Scrum",
+            "link": "/project/Scrum"
+          },
+          {
+            "text": "项目实践",
+            "link": "/project/index"
+          },
+          {
+            "text": "原型检验[1]",
+            "link": "/project/inspect"
+          },
+          {
+            "text": "产品整个流程[1]",
+            "link": "/project/process"
+          },
+          {
+            "text": "产品文档",
+            "link": "/project/product_document"
+          },
+          {
+            "text": "产品体验",
+            "link": "/project/product_experience"
+          },
+          {
+            "text": "需求价值的分析方法",
+            "link": "/project/separate_need"
+          },
+          {
+            "text": "价值 [1]",
+            "link": "/project/valuable"
+          }
+        ]
+      }
+    ],
+    "/interview/": [
+      {
+        "text": "面试",
+        "items": [
+          {
+            "text": "金融产品经理的简历 [1]",
+            "link": "/interview/AI_Finance_CV"
+          },
+          {
+            "text": "简历 CV",
+            "link": "/interview/CV"
+          },
+          {
+            "text": "HR",
+            "link": "/interview/HR"
+          },
+          {
+            "text": "背景调查",
+            "link": "/interview/background_survey"
+          },
+          {
+            "text": "职场选择",
+            "link": "/interview/choose"
+          },
+          {
+            "text": "常见企业文化",
+            "link": "/interview/culture"
+          },
+          {
+            "text": "初入职场",
+            "link": "/interview/enter"
+          },
+          {
+            "text": "笔试题",
+            "link": "/interview/exam"
+          },
+          {
+            "text": "招不到合适",
+            "link": "/interview/hire"
+          },
+          {
+            "text": "面试",
+            "link": "/interview/index"
+          },
+          {
+            "text": "面试官 [1]",
+            "link": "/interview/interviewer"
+          },
+          {
+            "text": "metaapp笔试",
+            "link": "/interview/metaapp_exam"
+          },
+          {
+            "text": "令人喜爱的新人[1]",
+            "link": "/interview/new_like"
+          },
+          {
+            "text": "不能去的公司",
+            "link": "/interview/not_go"
+          },
+          {
+            "text": "工作",
+            "link": "/interview/offer"
+          },
+          {
+            "text": "常见问题",
+            "link": "/interview/question"
+          },
+          {
+            "text": "申请要求",
+            "link": "/interview/require"
+          },
+          {
+            "text": "回报",
+            "link": "/interview/reward"
+          },
+          {
+            "text": "模拟面试",
+            "link": "/interview/simulate_interview"
+          },
+          {
+            "text": "心态",
+            "link": "/interview/xintai"
+          },
+          {
+            "text": "一面数据笔试",
+            "link": "/interview/yimian_exam"
+          }
+        ]
+      }
+    ],
+    "/ai-job/": [
+      {
+        "text": "AI工作",
+        "items": [
+          {
+            "text": "CTO",
+            "link": "/ai-job/CTO"
+          },
+          {
+            "text": "移民",
+            "link": "/ai-job/Layoff"
+          },
+          {
+            "text": "PIP",
+            "link": "/ai-job/PIP"
+          },
+          {
+            "text": "作者：魔法小精灵",
+            "link": "/ai-job/WFH"
+          },
+          {
+            "text": "challenge",
+            "link": "/ai-job/challenge"
+          },
+          {
+            "text": "金融实习",
+            "link": "/ai-job/finance"
+          },
+          {
+            "text": "AI工作",
+            "link": "/ai-job/index"
+          },
+          {
+            "text": "大会",
+            "link": "/ai-job/meeting"
+          },
+          {
+            "text": "产业链",
+            "link": "/ai-job/product_chain"
+          },
+          {
+            "text": "离职",
+            "link": "/ai-job/quit_job"
+          },
+          {
+            "text": "学生身份",
+            "link": "/ai-job/school"
+          },
+          {
+            "text": "外包",
+            "link": "/ai-job/waibao"
+          },
+          {
+            "text": "工作时间",
+            "link": "/ai-job/work_time"
+          }
+        ]
+      }
+    ],
+    "/data-dive/": [
+      {
+        "text": "深入学习数据",
+        "items": [
+          {
+            "text": "非对称信息",
+            "link": "/data-dive/asymmetric_information"
+          },
+          {
+            "text": "区块链",
+            "link": "/data-dive/blockchain"
+          },
+          {
+            "text": "合规数据",
+            "link": "/data-dive/compliance_data"
+          },
+          {
+            "text": "数据",
+            "link": "/data-dive/data"
+          },
+          {
+            "text": "数据产业",
+            "link": "/data-dive/data_industry"
+          },
+          {
+            "text": "数据准备",
+            "link": "/data-dive/data_prepare"
+          },
+          {
+            "text": "数据产品",
+            "link": "/data-dive/data_product"
+          },
+          {
+            "text": "dataworks平台",
+            "link": "/data-dive/dataworks"
+          },
+          {
+            "text": "深入学习数据",
+            "link": "/data-dive/index"
+          },
+          {
+            "text": "信息",
+            "link": "/data-dive/information"
+          },
+          {
+            "text": "知识产权",
+            "link": "/data-dive/intellectual property"
+          },
+          {
+            "text": "法律",
+            "link": "/data-dive/law"
+          },
+          {
+            "text": "侵权",
+            "link": "/data-dive/pirate"
+          },
+          {
+            "text": "隐私计算",
+            "link": "/data-dive/privacy_computing"
+          },
+          {
+            "text": "隐私",
+            "link": "/data-dive/private"
+          }
+        ]
+      }
+    ],
+    "/ai-dive/": [
+      {
+        "text": "深入学习AI",
+        "items": [
+          {
+            "text": "AI 研究",
+            "link": "/ai-dive/AI_Research"
+          },
+          {
+            "text": "AI部署",
+            "link": "/ai-dive/AI_deploy"
+          },
+          {
+            "text": "AI监控",
+            "link": "/ai-dive/AI_monitor&control"
+          },
+          {
+            "text": "AI产品的测试",
+            "link": "/ai-dive/AI_test"
+          },
+          {
+            "text": "CV",
+            "link": "/ai-dive/CV"
+          },
+          {
+            "text": "深度学习算法",
+            "link": "/ai-dive/DL"
+          },
+          {
+            "text": "FAQ",
+            "link": "/ai-dive/FAQ"
+          },
+          {
+            "text": "联邦学习",
+            "link": "/ai-dive/Federated Learning"
+          },
+          {
+            "text": "GAN",
+            "link": "/ai-dive/GAN"
+          },
+          {
+            "text": "知识产权",
+            "link": "/ai-dive/IPR"
+          },
+          {
+            "text": "可解释性",
+            "link": "/ai-dive/Interpretable"
+          },
+          {
+            "text": "知识图谱",
+            "link": "/ai-dive/KG"
+          },
+          {
+            "text": "ML [^1]",
+            "link": "/ai-dive/ML"
+          },
+          {
+            "text": "MLOps",
+            "link": "/ai-dive/MLOps"
+          },
+          {
+            "text": "MT（机器翻译）",
+            "link": "/ai-dive/MT"
+          },
+          {
+            "text": "NLP",
+            "link": "/ai-dive/NLP"
+          },
+          {
+            "text": "OCR",
+            "link": "/ai-dive/OCR"
+          },
+          {
+            "text": "语音",
+            "link": "/ai-dive/Speech"
+          },
+          {
+            "text": "聊天机器人",
+            "link": "/ai-dive/chatbot"
+          },
+          {
+            "text": "code",
+            "link": "/ai-dive/code"
+          },
+          {
+            "text": "认知智能",
+            "link": "/ai-dive/cognition_AI"
+          },
+          {
+            "text": "人才培养",
+            "link": "/ai-dive/develop"
+          },
+          {
+            "text": "画画",
+            "link": "/ai-dive/draw"
+          },
+          {
+            "text": "特征工程",
+            "link": "/ai-dive/feature_engineering"
+          },
+          {
+            "text": "灰度发布",
+            "link": "/ai-dive/huidu"
+          },
+          {
+            "text": "深入学习AI",
+            "link": "/ai-dive/index"
+          },
+          {
+            "text": "移动端",
+            "link": "/ai-dive/mobile"
+          },
+          {
+            "text": "音乐",
+            "link": "/ai-dive/music"
+          },
+          {
+            "text": "现实",
+            "link": "/ai-dive/real"
+          },
+          {
+            "text": "推荐系统",
+            "link": "/ai-dive/recommand"
+          },
+          {
+            "text": "理解AI",
+            "link": "/ai-dive/understand_AI"
+          },
+          {
+            "text": "视频",
+            "link": "/ai-dive/video"
+          }
+        ]
+      }
+    ],
+    "/ai-politics/": [
+      {
+        "text": "AI政治",
+        "items": [
+          {
+            "text": "经济",
+            "link": "/ai-politics/economics"
+          },
+          {
+            "text": "AI政治",
+            "link": "/ai-politics/index"
+          },
+          {
+            "text": "引言",
+            "link": "/ai-politics/intro"
+          },
+          {
+            "text": "生产资料",
+            "link": "/ai-politics/means_of_production"
+          },
+          {
+            "text": "积累",
+            "link": "/ai-politics/more"
+          },
+          {
+            "text": "原则",
+            "link": "/ai-politics/principle"
+          },
+          {
+            "text": "选举",
+            "link": "/ai-politics/xuanju"
+          }
+        ]
+      }
+    ],
+    "/ai-company/": [
+      {
+        "text": "AI公司研究",
+        "items": [
+          {
+            "text": "Google",
+            "link": "/ai-company/Google"
+          },
+          {
+            "text": "Intel",
+            "link": "/ai-company/Intel"
+          },
+          {
+            "text": "摩根大通",
+            "link": "/ai-company/JPMorgan"
+          },
+          {
+            "text": "RealAI",
+            "link": "/ai-company/RealAI"
+          },
+          {
+            "text": "阿里巴巴",
+            "link": "/ai-company/alibaba"
+          },
+          {
+            "text": "支付宝",
+            "link": "/ai-company/alipay"
+          },
+          {
+            "text": "蚂蚁集团",
+            "link": "/ai-company/antgroup"
+          },
+          {
+            "text": "百度",
+            "link": "/ai-company/baidu"
+          },
+          {
+            "text": "bytedance",
+            "link": "/ai-company/bytedance"
+          },
+          {
+            "text": "公司研究",
+            "link": "/ai-company/company_research"
+          },
+          {
+            "text": "datayes",
+            "link": "/ai-company/datayes"
+          },
+          {
+            "text": "暗物智能",
+            "link": "/ai-company/dm-ai"
+          },
+          {
+            "text": "旷视",
+            "link": "/ai-company/face++"
+          },
+          {
+            "text": "华泰证券",
+            "link": "/ai-company/huatai"
+          },
+          {
+            "text": "AI公司研究",
+            "link": "/ai-company/index"
+          },
+          {
+            "text": "京东",
+            "link": "/ai-company/jd"
+          },
+          {
+            "text": "金证",
+            "link": "/ai-company/jinzheng"
+          },
+          {
+            "text": "美团",
+            "link": "/ai-company/meituan"
+          },
+          {
+            "text": "陌陌",
+            "link": "/ai-company/momo"
+          },
+          {
+            "text": "更多",
+            "link": "/ai-company/more"
+          },
+          {
+            "text": "MRSai",
+            "link": "/ai-company/mrsai"
+          },
+          {
+            "text": "英伟达",
+            "link": "/ai-company/nvidia"
+          },
+          {
+            "text": "思谋科技",
+            "link": "/ai-company/smartmore"
+          },
+          {
+            "text": "腾讯",
+            "link": "/ai-company/tencent"
+          },
+          {
+            "text": "tesla",
+            "link": "/ai-company/tesla"
+          },
+          {
+            "text": "天眼查",
+            "link": "/ai-company/tianyancha"
+          },
+          {
+            "text": "怼 蓝象智联",
+            "link": "/ai-company/trustbe"
+          },
+          {
+            "text": "吐槽",
+            "link": "/ai-company/tucao"
+          },
+          {
+            "text": "图灵机器人",
+            "link": "/ai-company/turingbot"
+          },
+          {
+            "text": "工作区别",
+            "link": "/ai-company/work"
+          },
+          {
+            "text": "红棉小冰",
+            "link": "/ai-company/xiaoice"
+          },
+          {
+            "text": "小米",
+            "link": "/ai-company/xiaomi"
+          },
+          {
+            "text": "云从",
+            "link": "/ai-company/yuncong"
+          }
+        ]
+      }
+    ],
+    "/ai-pm-expert/": [
+      {
+        "text": "AI或产品专家",
+        "items": [
+          {
+            "text": "专家",
+            "link": "/ai-pm-expert/expert"
+          },
+          {
+            "text": "AI或产品专家",
+            "link": "/ai-pm-expert/index"
+          },
+          {
+            "text": "裴健",
+            "link": "/ai-pm-expert/pei_jian"
+          },
+          {
+            "text": "漆远",
+            "link": "/ai-pm-expert/qi_yuan"
+          },
+          {
+            "text": "谢梁",
+            "link": "/ai-pm-expert/xie_liang"
+          },
+          {
+            "text": "俞军",
+            "link": "/ai-pm-expert/yu_jun"
+          },
+          {
+            "text": "马占凯",
+            "link": "/ai-pm-expert/zhankai_ma"
+          },
+          {
+            "text": "朱孙纯",
+            "link": "/ai-pm-expert/zhu_songchun"
+          }
+        ]
+      }
+    ],
+    "/ai-finance/": [
+      {
+        "text": "AI金融",
+        "items": [
+          {
+            "text": "AI+Finance",
+            "link": "/ai-finance/AI_Finance"
+          },
+          {
+            "text": "智能投研",
+            "link": "/ai-finance/AI_Investment_Research"
+          },
+          {
+            "text": "智能风控",
+            "link": "/ai-finance/AI_Risk_Management"
+          },
+          {
+            "text": "智能客服",
+            "link": "/ai-finance/AI_customer_service"
+          },
+          {
+            "text": "AI安全",
+            "link": "/ai-finance/AI_safety"
+          },
+          {
+            "text": "公司",
+            "link": "/ai-finance/Company"
+          },
+          {
+            "text": "金融科技（FinTech）",
+            "link": "/ai-finance/FinTech"
+          },
+          {
+            "text": "金融",
+            "link": "/ai-finance/Finance"
+          },
+          {
+            "text": "全栈金融",
+            "link": "/ai-finance/Full_stack"
+          },
+          {
+            "text": "投资",
+            "link": "/ai-finance/Invest"
+          },
+          {
+            "text": "智能营销",
+            "link": "/ai-finance/MarTech"
+          },
+          {
+            "text": "RPA",
+            "link": "/ai-finance/RPA"
+          },
+          {
+            "text": "智能顾投",
+            "link": "/ai-finance/Robo-Advisor"
+          },
+          {
+            "text": "AI金融",
+            "link": "/ai-finance/index"
+          },
+          {
+            "text": "quant",
+            "link": "/ai-finance/quant"
+          }
+        ]
+      }
+    ]
+  }
+}
