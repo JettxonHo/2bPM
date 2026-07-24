@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync, copyFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync, copyFileSync, rmSync } from 'node:fs';
 import { join, basename } from 'node:path';
 import { resolveConflictMarkers } from './lib/conflicts.mjs';
 import { SLUG_MAP, parseTocFiles } from './lib/chapters.mjs';
@@ -62,6 +62,7 @@ for (const p of ROOT_PAGES) {
 // 图片统一进 site/public/img（含 + 等字符的文件名同步重命名为 URL 安全名）
 const imgSrc = join(ROOT, 'img');
 const imgOut = join(SITE, 'public', 'img');
+rmSync(imgOut, { recursive: true, force: true });   // 清空旧产物，避免新旧文件混杂
 mkdirSync(imgOut, { recursive: true });
 for (const f of readdirSync(imgSrc)) {
   copyFileSync(join(imgSrc, f), join(imgOut, safeImageName(f)));
