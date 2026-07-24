@@ -1,0 +1,26 @@
+name: Deploy VitePress
+on:
+  push:
+    branches: [master]
+permissions:
+  contents: write
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: 运行迁移
+        run: node scripts/migrate.mjs && node scripts/verify.mjs
+      - name: 安装并构建
+        run: |
+          cd site
+          npm ci
+          npx vitepress build
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
