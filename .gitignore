@@ -1,3 +1,6 @@
 /_build/**
 # git rm -rf --cached .
 vitepress-proto/
+site/node_modules/
+site/.vitepress/dist/
+site/.vitepress/cache/

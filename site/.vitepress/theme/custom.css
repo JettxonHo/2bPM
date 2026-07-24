@@ -1,0 +1,25 @@
+:root {
+  /* 折中风格：暖白底 + 深灰正文 + 护眼深绿链接 */
+  --vp-c-bg: #fafaf7;
+  --vp-c-bg-soft: #f3f2ec;
+  --vp-c-text-1: #23272a;
+  --vp-c-text-2: #4a4f52;
+  --vp-c-brand-1: #2f6f4f;   /* 链接主色：深森林绿，对比度达标 */
+  --vp-c-brand-2: #245a3e;
+  --vp-c-brand-3: #2f6f4f;
+  --vp-c-brand-soft: rgba(47, 111, 79, 0.12);
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, "SF Pro SC",
+    "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif;
+}
+.dark {
+  --vp-c-bg: #1a1b1e;
+  --vp-c-bg-soft: #232427;
+  --vp-c-text-1: #e6e4de;
+  --vp-c-text-2: #b3b0a8;
+  --vp-c-brand-1: #7fb894;   /* 深色模式下用浅绿保证对比度 */
+  --vp-c-brand-2: #9ccbad;
+  --vp-c-brand-3: #7fb894;
+}
+/* 中文长文排版优化 */
+.vp-doc p { line-height: 1.9; }
+.vp-doc { font-size: 16.5px; }
