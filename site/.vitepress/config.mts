@@ -14,8 +14,13 @@ export default defineConfig({
   title: '自学成 AI 产品经理',
   description: 'AI 产品经理知识库',
   cleanUrls: true,
+  outDir: '../docs',
   srcExclude: ['**/README.md'],
   markdown: { math: true, lineNumbers: false },
+  async buildEnd(siteConfig) {
+    const { generateRedirects } = await import('./build-end.mjs')
+    generateRedirects(siteConfig.outDir)
+  },
   themeConfig: {
     nav: nav.nav,
     sidebar: nav.sidebar,
