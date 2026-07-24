@@ -1,2 +1,3 @@
 /_build/**
 # git rm -rf --cached .
+vitepress-proto/
