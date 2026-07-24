@@ -59,6 +59,14 @@
     {
       "text": "AI金融",
       "link": "/ai-finance/index"
+    },
+    {
+      "text": "Dive",
+      "link": "/dive/index"
+    },
+    {
+      "text": "skill",
+      "link": "/skill/index"
     }
   ],
   "sidebar": {
@@ -1117,6 +1125,223 @@
           {
             "text": "quant",
             "link": "/ai-finance/quant"
+          }
+        ]
+      }
+    ],
+    "/dive/": [
+      {
+        "text": "Dive",
+        "items": [
+          {
+            "text": "AI部署",
+            "link": "/dive/AI_deploy"
+          },
+          {
+            "text": "AI产品的测试",
+            "link": "/dive/AI_test"
+          },
+          {
+            "text": "AIroadmap",
+            "link": "/dive/AIroadmap"
+          },
+          {
+            "text": "深度学习算法",
+            "link": "/dive/DL"
+          },
+          {
+            "text": "联邦学习",
+            "link": "/dive/Federated Learning"
+          },
+          {
+            "text": "ML [1]",
+            "link": "/dive/ML"
+          },
+          {
+            "text": "MLOps",
+            "link": "/dive/MLOps"
+          },
+          {
+            "text": "支付宝",
+            "link": "/dive/alipay"
+          },
+          {
+            "text": "蚂蚁集团",
+            "link": "/dive/antgroup"
+          },
+          {
+            "text": "code",
+            "link": "/dive/code"
+          },
+          {
+            "text": "公司研究",
+            "link": "/dive/company_research"
+          },
+          {
+            "text": "人才培养",
+            "link": "/dive/develop"
+          },
+          {
+            "text": "暗物智能",
+            "link": "/dive/dm-ai"
+          },
+          {
+            "text": "专家",
+            "link": "/dive/expert"
+          },
+          {
+            "text": "特征工程",
+            "link": "/dive/feature_engineering"
+          },
+          {
+            "text": "灰度发布",
+            "link": "/dive/huidu"
+          },
+          {
+            "text": "Dive",
+            "link": "/dive/index"
+          },
+          {
+            "text": "京东",
+            "link": "/dive/jd"
+          },
+          {
+            "text": "美团",
+            "link": "/dive/meituan"
+          },
+          {
+            "text": "移动端",
+            "link": "/dive/mobile"
+          },
+          {
+            "text": "蚂蚁金服AI首席科学家漆远[1]",
+            "link": "/dive/qi_yuan"
+          },
+          {
+            "text": "现实",
+            "link": "/dive/real"
+          },
+          {
+            "text": "纵向深度挖掘",
+            "link": "/dive/zongshen"
+          }
+        ]
+      }
+    ],
+    "/skill/": [
+      {
+        "text": "skill",
+        "items": [
+          {
+            "text": "BRD [1]",
+            "link": "/skill/BRD"
+          },
+          {
+            "text": "MRD [1]",
+            "link": "/skill/MRD"
+          },
+          {
+            "text": "MVP",
+            "link": "/skill/MVP"
+          },
+          {
+            "text": "PRD",
+            "link": "/skill/PRD"
+          },
+          {
+            "text": "估值",
+            "link": "/skill/Valuation"
+          },
+          {
+            "text": "沟通、协作、项目推动能力",
+            "link": "/skill/collaborate"
+          },
+          {
+            "text": "竞争分析",
+            "link": "/skill/compete_analysis"
+          },
+          {
+            "text": "数据分析",
+            "link": "/skill/data_analysis"
+          },
+          {
+            "text": "产品体验报告 [1]",
+            "link": "/skill/experience_report"
+          },
+          {
+            "text": "流程图[1]",
+            "link": "/skill/flow_chart"
+          },
+          {
+            "text": "竞品分析 [1]",
+            "link": "/skill/goods_analysis"
+          },
+          {
+            "text": "skill",
+            "link": "/skill/index"
+          },
+          {
+            "text": "行业分析",
+            "link": "/skill/industry_analysis"
+          },
+          {
+            "text": "推广产品",
+            "link": "/skill/more_users"
+          },
+          {
+            "text": "产品定价 [1]",
+            "link": "/skill/price"
+          },
+          {
+            "text": "优先级 [1]",
+            "link": "/skill/priority"
+          },
+          {
+            "text": "管理项目",
+            "link": "/skill/project_manage"
+          },
+          {
+            "text": "原型设计",
+            "link": "/skill/prototype_design"
+          },
+          {
+            "text": "Research",
+            "link": "/skill/research"
+          },
+          {
+            "text": "资源管理",
+            "link": "/skill/resource_manage"
+          },
+          {
+            "text": "静态页面",
+            "link": "/skill/static_page"
+          },
+          {
+            "text": "商业化产品“七步设计法” [1]",
+            "link": "/skill/steps"
+          },
+          {
+            "text": "工具",
+            "link": "/skill/tools"
+          },
+          {
+            "text": "迭代优化",
+            "link": "/skill/upgrade_manage"
+          },
+          {
+            "text": "用户需求研究 [1]",
+            "link": "/skill/users_analysis"
+          }
+        ]
+      }
+    ],
+    "/more/": [
+      {
+        "text": "更多",
+        "items": [
+          {
+            "text": "侵权",
+            "link": "/more/pirate"
           }
         ]
       }
