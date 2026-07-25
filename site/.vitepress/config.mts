@@ -13,6 +13,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '自学成 AI 产品经理',
   description: 'AI 产品经理知识库',
+  base: '/2bPM/',          // 部署在子路径 https://jettxonho.github.io/2bPM/，资源需带此前缀
   cleanUrls: true,
   outDir: '../docs',
   srcExclude: ['**/README.md'],
