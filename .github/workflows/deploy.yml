@@ -1,7 +1,8 @@
-name: Deploy VitePress
+name: Build and Deploy VitePress
 on:
   push:
     branches: [master]
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
@@ -12,15 +13,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: 运行迁移
+      - name: 运行迁移与校验
         run: node scripts/migrate.mjs && node scripts/verify.mjs
-      - name: 安装并构建
+      - name: 安装依赖并构建到 docs/
         run: |
           cd site
           npm ci
           npx vitepress build
-      - name: 部署到 GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+      - name: 提交构建产物 docs/ 回 master
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "docs 无变化，跳过提交"
+          else
+            git commit -m "build: 自动构建 VitePress 产物 [skip ci]"
+            git push
+          fi
