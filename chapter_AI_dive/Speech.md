@@ -86,7 +86,7 @@ DeepMind早前发布了一个机器学习语音生成模型WaveNet，直接生�
 2. CPS（ Conversations Per Session）：CPS描述了人类与人工智能在一次对话中持续的平均轮数，从而反映了人工智能在这些对话中所体现的沟通能力。
 从传统Q&A问答到多轮对话，从被动回答到主动对话。
 3. 人性化：形象设定（语料运营）、NLG（自然语言生成）、TTS（语音合成）
-   ![通用智能语音助手产品](D:/onedrive/Documents/read/2bPM/img/speech_product.png)
+   ![通用智能语音助手产品](../img/Speech.png)
 4. 投入产出比低：依赖技术突破（NLU）、用户习惯培养、持续优化（保持数据的时效性）[^7]
 
 语音识别[^6]

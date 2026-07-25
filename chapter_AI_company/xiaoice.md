@@ -128,7 +128,7 @@ Yeelight语音助手主打双AI系统，里面住着两个小伙伴：一个是�
 
 ![小冰产品](../img/xiaoice_product.png)
 
-![技术到落地产品](../img/xiaoice_tech-product.png)
+![技术到落地产品](../img/Fin_xiaoice.png)
 ![小冰存在在各个产品](../img/xiaoice_exist.png)
 
 ### Avatar Framework
